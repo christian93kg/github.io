@@ -1,6 +1,6 @@
 title: "My Pentesting Blog"
 description: "OSCP Journey and HTB Writeups"
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-cayman
 
 defaults:
   - scope:
