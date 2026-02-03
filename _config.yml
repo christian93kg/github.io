@@ -1,0 +1,11 @@
+title: Your Pentesting Blog
+   description: OSCP Journey and HTB Writeups
+   remote_theme: mmistakes/minimal-mistakes
+   
+   defaults:
+     - scope:
+         path: ""
+         type: posts
+       values:
+         layout: single
+         author_profile: true
